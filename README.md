@@ -6,8 +6,18 @@ ___________
 
 - [Scaramouche](https://sketchfab.com/models/2d8425c1af3a48a7bc5dc9f856f41cb9?ref=related) - Nice low poly + personality
 
+- [Cyborg](https://cdna.artstation.com/p/assets/images/images/008/631/816/large/taregh-saber-cyborg-red2-mini.jpg?1514086286) - pose, curvature for visible animation
+
 ____________
 
 ## Low Poly
 
 - [McCree](https://sketchfab.com/models/38aedc02c0b2412babdc4d0eac7c6803?ref=related)
+
+____________
+
+## High Poly
+
+- [Robot Samurai](https://mugishaarts.artstation.com/projects/wwoBO) - back
+
+- [Facepaint Android](https://www.artstation.com/artwork/Q2kyl) - using facepaint
