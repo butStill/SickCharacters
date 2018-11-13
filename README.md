@@ -8,7 +8,7 @@ ___________
 
 - [Cyborg](https://cdna.artstation.com/p/assets/images/images/008/631/816/large/taregh-saber-cyborg-red2-mini.jpg?1514086286) - pose, curvature for visible animation
 
-- [Robot Samurai](https://imgur.com/a/BVgqlnl) - Expressive hands + feet
+- [Robot Samurai](https://imgur.com/a/BVgqlnl) - Expressive hands + feet, need to show animations clearly during movement
 
 ____________
 
