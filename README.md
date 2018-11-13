@@ -20,4 +20,6 @@ ____________
 
 - [Robot Samurai](https://mugishaarts.artstation.com/projects/wwoBO) - back
 
+- [ADAM](https://www.kotaku.com.au/2016/07/fine-art-robot-samurai/) - design walkthrough
+
 - [Facepaint Android](https://www.artstation.com/artwork/Q2kyl) - using facepaint
