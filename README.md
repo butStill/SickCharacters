@@ -23,3 +23,5 @@ ____________
 - [ADAM](https://www.kotaku.com.au/2016/07/fine-art-robot-samurai/) - design walkthrough
 
 - [Facepaint Android](https://www.artstation.com/artwork/Q2kyl) - using facepaint
+
+- [Female Cyborg Samurai](https://www.artstation.com/artwork/nBvl9) - kimono
