@@ -12,7 +12,7 @@ ____________
 
 ## Low Poly
 
-- [McCree](https://sketchfab.com/models/38aedc02c0b2412babdc4d0eac7c6803?ref=related)
+- [McCree](https://sketchfab.com/models/38aedc02c0b2412babdc4d0eac7c6803?ref=related) - great design with low poly
 
 ____________
 
